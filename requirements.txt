@@ -1,0 +1,5 @@
+python-chess>=1.999
+torch>=2.0
+numpy>=1.24
+berserk>=0.13.1
+tqdm>=4.65
